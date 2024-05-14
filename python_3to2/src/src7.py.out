@@ -1,0 +1,6532 @@
+from __future__ import division
+from __future__ import absolute_import
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+import sys
+from itertools import izip
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter in iters:
+    _3to2list = list(_3to2iter)
+    a,b, c,d,e, = _3to2list[:2] + [_3to2list[2:-2]] + _3to2list[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter2 in iters:
+    _3to2list1 = list(_3to2iter2)
+    a,b, c,d,e, = _3to2list1[:2] + [_3to2list1[2:-2]] + _3to2list1[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter4 in iters:
+    _3to2list3 = list(_3to2iter4)
+    a,b, c,d,e, = _3to2list3[:2] + [_3to2list3[2:-2]] + _3to2list3[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter6 in iters:
+    _3to2list5 = list(_3to2iter6)
+    a,b, c,d,e, = _3to2list5[:2] + [_3to2list5[2:-2]] + _3to2list5[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter8 in iters:
+    _3to2list7 = list(_3to2iter8)
+    a,b, c,d,e, = _3to2list7[:2] + [_3to2list7[2:-2]] + _3to2list7[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter10 in iters:
+    _3to2list9 = list(_3to2iter10)
+    a,b, c,d,e, = _3to2list9[:2] + [_3to2list9[2:-2]] + _3to2list9[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter12 in iters:
+    _3to2list11 = list(_3to2iter12)
+    a,b, c,d,e, = _3to2list11[:2] + [_3to2list11[2:-2]] + _3to2list11[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter14 in iters:
+    _3to2list13 = list(_3to2iter14)
+    a,b, c,d,e, = _3to2list13[:2] + [_3to2list13[2:-2]] + _3to2list13[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter16 in iters:
+    _3to2list15 = list(_3to2iter16)
+    a,b, c,d,e, = _3to2list15[:2] + [_3to2list15[2:-2]] + _3to2list15[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter18 in iters:
+    _3to2list17 = list(_3to2iter18)
+    a,b, c,d,e, = _3to2list17[:2] + [_3to2list17[2:-2]] + _3to2list17[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter20 in iters:
+    _3to2list19 = list(_3to2iter20)
+    a,b, c,d,e, = _3to2list19[:2] + [_3to2list19[2:-2]] + _3to2list19[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter22 in iters:
+    _3to2list21 = list(_3to2iter22)
+    a,b, c,d,e, = _3to2list21[:2] + [_3to2list21[2:-2]] + _3to2list21[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter24 in iters:
+    _3to2list23 = list(_3to2iter24)
+    a,b, c,d,e, = _3to2list23[:2] + [_3to2list23[2:-2]] + _3to2list23[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter26 in iters:
+    _3to2list25 = list(_3to2iter26)
+    a,b, c,d,e, = _3to2list25[:2] + [_3to2list25[2:-2]] + _3to2list25[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter28 in iters:
+    _3to2list27 = list(_3to2iter28)
+    a,b, c,d,e, = _3to2list27[:2] + [_3to2list27[2:-2]] + _3to2list27[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter30 in iters:
+    _3to2list29 = list(_3to2iter30)
+    a,b, c,d,e, = _3to2list29[:2] + [_3to2list29[2:-2]] + _3to2list29[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter32 in iters:
+    _3to2list31 = list(_3to2iter32)
+    a,b, c,d,e, = _3to2list31[:2] + [_3to2list31[2:-2]] + _3to2list31[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter34 in iters:
+    _3to2list33 = list(_3to2iter34)
+    a,b, c,d,e, = _3to2list33[:2] + [_3to2list33[2:-2]] + _3to2list33[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter36 in iters:
+    _3to2list35 = list(_3to2iter36)
+    a,b, c,d,e, = _3to2list35[:2] + [_3to2list35[2:-2]] + _3to2list35[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter38 in iters:
+    _3to2list37 = list(_3to2iter38)
+    a,b, c,d,e, = _3to2list37[:2] + [_3to2list37[2:-2]] + _3to2list37[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter40 in iters:
+    _3to2list39 = list(_3to2iter40)
+    a,b, c,d,e, = _3to2list39[:2] + [_3to2list39[2:-2]] + _3to2list39[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter42 in iters:
+    _3to2list41 = list(_3to2iter42)
+    a,b, c,d,e, = _3to2list41[:2] + [_3to2list41[2:-2]] + _3to2list41[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter44 in iters:
+    _3to2list43 = list(_3to2iter44)
+    a,b, c,d,e, = _3to2list43[:2] + [_3to2list43[2:-2]] + _3to2list43[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter46 in iters:
+    _3to2list45 = list(_3to2iter46)
+    a,b, c,d,e, = _3to2list45[:2] + [_3to2list45[2:-2]] + _3to2list45[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter48 in iters:
+    _3to2list47 = list(_3to2iter48)
+    a,b, c,d,e, = _3to2list47[:2] + [_3to2list47[2:-2]] + _3to2list47[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter50 in iters:
+    _3to2list49 = list(_3to2iter50)
+    a,b, c,d,e, = _3to2list49[:2] + [_3to2list49[2:-2]] + _3to2list49[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter52 in iters:
+    _3to2list51 = list(_3to2iter52)
+    a,b, c,d,e, = _3to2list51[:2] + [_3to2list51[2:-2]] + _3to2list51[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter54 in iters:
+    _3to2list53 = list(_3to2iter54)
+    a,b, c,d,e, = _3to2list53[:2] + [_3to2list53[2:-2]] + _3to2list53[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter56 in iters:
+    _3to2list55 = list(_3to2iter56)
+    a,b, c,d,e, = _3to2list55[:2] + [_3to2list55[2:-2]] + _3to2list55[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter58 in iters:
+    _3to2list57 = list(_3to2iter58)
+    a,b, c,d,e, = _3to2list57[:2] + [_3to2list57[2:-2]] + _3to2list57[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter60 in iters:
+    _3to2list59 = list(_3to2iter60)
+    a,b, c,d,e, = _3to2list59[:2] + [_3to2list59[2:-2]] + _3to2list59[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter62 in iters:
+    _3to2list61 = list(_3to2iter62)
+    a,b, c,d,e, = _3to2list61[:2] + [_3to2list61[2:-2]] + _3to2list61[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter64 in iters:
+    _3to2list63 = list(_3to2iter64)
+    a,b, c,d,e, = _3to2list63[:2] + [_3to2list63[2:-2]] + _3to2list63[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter66 in iters:
+    _3to2list65 = list(_3to2iter66)
+    a,b, c,d,e, = _3to2list65[:2] + [_3to2list65[2:-2]] + _3to2list65[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter68 in iters:
+    _3to2list67 = list(_3to2iter68)
+    a,b, c,d,e, = _3to2list67[:2] + [_3to2list67[2:-2]] + _3to2list67[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter70 in iters:
+    _3to2list69 = list(_3to2iter70)
+    a,b, c,d,e, = _3to2list69[:2] + [_3to2list69[2:-2]] + _3to2list69[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter72 in iters:
+    _3to2list71 = list(_3to2iter72)
+    a,b, c,d,e, = _3to2list71[:2] + [_3to2list71[2:-2]] + _3to2list71[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter74 in iters:
+    _3to2list73 = list(_3to2iter74)
+    a,b, c,d,e, = _3to2list73[:2] + [_3to2list73[2:-2]] + _3to2list73[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter76 in iters:
+    _3to2list75 = list(_3to2iter76)
+    a,b, c,d,e, = _3to2list75[:2] + [_3to2list75[2:-2]] + _3to2list75[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter78 in iters:
+    _3to2list77 = list(_3to2iter78)
+    a,b, c,d,e, = _3to2list77[:2] + [_3to2list77[2:-2]] + _3to2list77[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter80 in iters:
+    _3to2list79 = list(_3to2iter80)
+    a,b, c,d,e, = _3to2list79[:2] + [_3to2list79[2:-2]] + _3to2list79[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter82 in iters:
+    _3to2list81 = list(_3to2iter82)
+    a,b, c,d,e, = _3to2list81[:2] + [_3to2list81[2:-2]] + _3to2list81[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter84 in iters:
+    _3to2list83 = list(_3to2iter84)
+    a,b, c,d,e, = _3to2list83[:2] + [_3to2list83[2:-2]] + _3to2list83[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter86 in iters:
+    _3to2list85 = list(_3to2iter86)
+    a,b, c,d,e, = _3to2list85[:2] + [_3to2list85[2:-2]] + _3to2list85[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter88 in iters:
+    _3to2list87 = list(_3to2iter88)
+    a,b, c,d,e, = _3to2list87[:2] + [_3to2list87[2:-2]] + _3to2list87[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter90 in iters:
+    _3to2list89 = list(_3to2iter90)
+    a,b, c,d,e, = _3to2list89[:2] + [_3to2list89[2:-2]] + _3to2list89[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter92 in iters:
+    _3to2list91 = list(_3to2iter92)
+    a,b, c,d,e, = _3to2list91[:2] + [_3to2list91[2:-2]] + _3to2list91[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter94 in iters:
+    _3to2list93 = list(_3to2iter94)
+    a,b, c,d,e, = _3to2list93[:2] + [_3to2list93[2:-2]] + _3to2list93[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter96 in iters:
+    _3to2list95 = list(_3to2iter96)
+    a,b, c,d,e, = _3to2list95[:2] + [_3to2list95[2:-2]] + _3to2list95[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter98 in iters:
+    _3to2list97 = list(_3to2iter98)
+    a,b, c,d,e, = _3to2list97[:2] + [_3to2list97[2:-2]] + _3to2list97[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter100 in iters:
+    _3to2list99 = list(_3to2iter100)
+    a,b, c,d,e, = _3to2list99[:2] + [_3to2list99[2:-2]] + _3to2list99[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter102 in iters:
+    _3to2list101 = list(_3to2iter102)
+    a,b, c,d,e, = _3to2list101[:2] + [_3to2list101[2:-2]] + _3to2list101[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter104 in iters:
+    _3to2list103 = list(_3to2iter104)
+    a,b, c,d,e, = _3to2list103[:2] + [_3to2list103[2:-2]] + _3to2list103[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter106 in iters:
+    _3to2list105 = list(_3to2iter106)
+    a,b, c,d,e, = _3to2list105[:2] + [_3to2list105[2:-2]] + _3to2list105[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter108 in iters:
+    _3to2list107 = list(_3to2iter108)
+    a,b, c,d,e, = _3to2list107[:2] + [_3to2list107[2:-2]] + _3to2list107[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter110 in iters:
+    _3to2list109 = list(_3to2iter110)
+    a,b, c,d,e, = _3to2list109[:2] + [_3to2list109[2:-2]] + _3to2list109[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter112 in iters:
+    _3to2list111 = list(_3to2iter112)
+    a,b, c,d,e, = _3to2list111[:2] + [_3to2list111[2:-2]] + _3to2list111[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter114 in iters:
+    _3to2list113 = list(_3to2iter114)
+    a,b, c,d,e, = _3to2list113[:2] + [_3to2list113[2:-2]] + _3to2list113[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter116 in iters:
+    _3to2list115 = list(_3to2iter116)
+    a,b, c,d,e, = _3to2list115[:2] + [_3to2list115[2:-2]] + _3to2list115[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter118 in iters:
+    _3to2list117 = list(_3to2iter118)
+    a,b, c,d,e, = _3to2list117[:2] + [_3to2list117[2:-2]] + _3to2list117[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter120 in iters:
+    _3to2list119 = list(_3to2iter120)
+    a,b, c,d,e, = _3to2list119[:2] + [_3to2list119[2:-2]] + _3to2list119[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter122 in iters:
+    _3to2list121 = list(_3to2iter122)
+    a,b, c,d,e, = _3to2list121[:2] + [_3to2list121[2:-2]] + _3to2list121[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter124 in iters:
+    _3to2list123 = list(_3to2iter124)
+    a,b, c,d,e, = _3to2list123[:2] + [_3to2list123[2:-2]] + _3to2list123[-2:]
+    do_stuff
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+import repr
+import __builtin__
+import CGIHTTPServer, SimpleHTTPServer, BaseHTTPServer
+print u"spam"
+print 1, 2, 3
+print 1, 2, 3,; sys.stdout.write(u"")
+print >>file, 1, 2, 3
+print u" ".join([unicode(1), unicode(2), unicode(3)]),; sys.stdout.write(u"\n")
+it.next()
+it.next()
+@log_function
+def fib(n, output=[]):
+    print u"test"
+(len(bin(anything)) - 2)
+arr =str(string).encode('utf-8')
+a = a / b
+f.__x__
+os.getcwdu()
+raw_input(s)
+a = int(1)
+reduce(f, it)
+result = izip([u'Java', u'Python', u'JavaScript'], [14, 3, 6])
+range(8)
+for _3to2iter126 in iters:
+    _3to2list125 = list(_3to2iter126)
+    a,b, c,d,e, = _3to2list125[:2] + [_3to2list125[2:-2]] + _3to2list125[-2:]
+    do_stuff

@@ -1,0 +1,1667 @@
+page 50000 "Customer List"
+{
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+    trigger OnOpenPage() {
+        if a == true and 6 * 5 + 1 == 4 {
+            DoSomething();
+        } else {
+            DoSomethingElse();
+        }
+        if a == true {
+            DoSomething();
+        }
+        return a - 1 * 7;
+        return;
+        switch 7 * 4 / 4 {
+        case 4:
+            DoOne();
+            DoTwo();
+        case 3:
+            DoOnlyOne();
+        default:
+            DoOne();
+            DoTwo();
+        }
+        var/* test */ a: Integer /* test */;
+        var "Quoted Name": Label "test label";
+        a = (5 == 7 % 4 div 2) != true;
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+        for a = 1 to 5 {
+            a += 1;
+        }
+        foreach a in b {
+            a += 1;
+        }
+        while true {
+            a += 1;
+        }
+        repeat {
+            Hello();
+        } until Bye();
+    }
+    trigger OnBeforeGetRecord() {
+        var IsRecordSaved: Boolean = false;
+    }
+}

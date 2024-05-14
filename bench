@@ -1,0 +1,84 @@
+#!/usr/bin/env bash
+
+set -e
+
+hyperfine_opts='-u millisecond --shell none --warmup 3 --export-json result.json'
+
+function bench() {
+    local name=$1
+    local cmd=$2
+    local src=$3
+    local prepare_cmd=$4
+    local nr=$5
+
+    local full_src=`printf "$src" "$nr"`
+    echo "$name$nr (`cat $full_src | wc -l` lines):"
+    local cmd=`printf "$cmd" "$full_src"`
+    if [[ $prepare_cmd != "" ]]; then
+        hyperfine $hyperfine_opts --prepare "$prepare_cmd" "$cmd"
+    else
+        hyperfine $hyperfine_opts "$cmd"
+    fi
+
+    mean=`jq '.results[0].mean' result.json`
+    echo -n ",$mean" >> $results_file
+}
+
+results_file=`pwd`/results.csv
+echo -n "Eilučių kiekis,Laikas (sekundėmis),Alic,Babel,lib3to2,Rector" > $results_file
+
+compilers=(
+    "alic"
+        "src/src%s"
+        "./alic %s output"
+        ""
+        7
+
+    "babel"
+        "src/src%s.js"
+        "./node_modules/.bin/babel %s --out-dir lib --presets=@babel/env"
+        ""
+        6
+
+    "python_3to2"
+        "src/src%s.py"
+        "./3to2 %s -w --no-diffs"
+        ""
+        7
+
+    "rector"
+        "src/src%s.php"
+        "vendor/bin/rector process %s --no-progress-bar --no-diffs"
+        "cp -r src-backup/. src"
+        7
+)
+
+line_counts["1"]=100
+line_counts["2"]=200
+line_counts["3"]=400
+line_counts["4"]=800
+line_counts["5"]=1600
+line_counts["6"]=3200
+line_counts["7"]=6400
+
+for line_count_index in "${!line_counts[@]}"; do
+    echo -ne "\n${line_counts[$line_count_index]}," >> $results_file
+
+    for ((i = 0; i < ${#compilers[@]}; i += 5 )); do
+        name=${compilers[$i]}
+        src_file=${compilers[$i+1]}
+        cmd=${compilers[$i+2]}
+        prepare_cmd=${compilers[$i+3]}
+        supported_counts=${compilers[$i+4]}
+
+        if [ $supported_counts -lt $line_count_index ]; then
+            echo -n ",NaN" >> $results_file
+            continue
+        fi
+
+        cd $name
+        bench "$name" "$cmd" "$src_file" "$prepare_cmd" "$line_count_index"
+        cd ..
+    done
+done
+

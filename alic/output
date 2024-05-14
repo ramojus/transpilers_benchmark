@@ -1,0 +1,7811 @@
+page 50000 "Customer List"
+{
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+    trigger OnOpenPage()
+    var
+        /* test */ a: Integer /* test */;
+        "Quoted Name": Label "test label";
+    begin
+        if (a = true) and (((6 * 5) + 1) = 4) then begin
+            DoSomething();
+        end else begin
+            DoSomethingElse();
+        end;
+        if a = true then begin
+            DoSomething();
+        end;
+        exit(a - (1 * 7));
+        exit();
+        case (7 * 4) / 4 of
+            4:
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+            3:
+                DoOnlyOne();
+            else
+                begin
+                    DoOne();
+                    DoTwo();
+                end;
+        end;
+        a := (5 = ((7 mod 4) div 2)) <> true;
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+        for a := 1 to 5 do begin
+            a += 1;
+        end;
+        foreach a in b do begin
+            a += 1;
+        end;
+        while true do begin
+            a += 1;
+        end;
+        repeat
+            Hello();
+        until Bye();
+    end;
+    trigger OnBeforeGetRecord()
+    var
+        IsRecordSaved: Boolean;
+    begin
+        IsRecordSaved := false;
+    end;
+}

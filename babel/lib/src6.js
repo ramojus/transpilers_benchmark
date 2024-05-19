@@ -10,7 +10,7 @@ Object.defineProperty(exports, "sayHello", {
   }
 });
 var _myModule = require("./my-module.mjs");
-var _obj$prop, _foo, _obj$prop2, _foo2, _obj$prop3, _foo3, _obj$prop4, _foo4, _obj$prop5, _foo5, _obj$prop6, _foo6, _obj$prop7, _foo7, _obj$prop8, _foo8, _obj$prop9, _foo9, _obj$prop10, _foo10, _obj$prop11, _foo11, _obj$prop12, _foo12, _obj$prop13, _foo13, _obj$prop14, _foo14, _obj$prop15, _foo15, _obj$prop16, _foo16, _obj$prop17, _foo17, _obj$prop18, _foo18, _obj$prop19, _foo19, _obj$prop20, _foo20, _obj$prop21, _foo21, _obj$prop22, _foo22, _obj$prop23, _foo23, _obj$prop24, _foo24, _obj$prop25, _foo25, _obj$prop26, _foo26, _obj$prop27, _foo27, _obj$prop28, _foo28, _obj$prop29, _foo29, _obj$prop30, _foo30, _obj$prop31, _foo31, _obj$prop32, _foo32, _obj$prop33, _foo33, _obj$prop34, _foo34, _obj$prop35, _foo35, _obj$prop36, _foo36, _obj$prop37, _foo37, _obj$prop38, _foo38, _obj$prop39, _foo39, _obj$prop40, _foo40, _obj$prop41, _foo41, _obj$prop42, _foo42, _obj$prop43, _foo43, _obj$prop44, _foo44, _obj$prop45, _foo45, _obj$prop46, _foo46, _obj$prop47, _foo47, _obj$prop48, _foo48, _obj$prop49, _foo49, _obj$prop50, _foo50, _obj$prop51, _foo51, _obj$prop52, _foo52, _obj$prop53, _foo53, _obj$prop54, _foo54, _obj$prop55, _foo55, _obj$prop56, _foo56, _obj$prop57, _foo57, _obj$prop58, _foo58, _obj$prop59, _foo59, _obj$prop60, _foo60, _obj$prop61, _foo61, _obj$prop62, _foo62, _obj$prop63, _foo63, _obj$prop64, _foo64, _obj$prop65, _foo65, _obj$prop66, _foo66, _obj$prop67, _foo67, _obj$prop68, _foo68, _obj$prop69, _foo69, _obj$prop70, _foo70, _obj$prop71, _foo71, _obj$prop72, _foo72, _obj$prop73, _foo73, _obj$prop74, _foo74, _obj$prop75, _foo75, _obj$prop76, _foo76, _obj$prop77, _foo77, _obj$prop78, _foo78, _obj$prop79, _foo79, _obj$prop80, _foo80, _obj$prop81, _foo81, _obj$prop82, _foo82, _obj$prop83, _foo83, _obj$prop84, _foo84, _obj$prop85, _foo85, _obj$prop86, _foo86, _obj$prop87, _foo87, _obj$prop88, _foo88, _obj$prop89, _foo89, _obj$prop90, _foo90, _obj$prop91, _foo91, _obj$prop92, _foo92, _obj$prop93, _foo93, _obj$prop94, _foo94, _obj$prop95, _foo95, _obj$prop96, _foo96;
+var _obj$prop, _foo, _obj$prop2, _foo2, _obj$prop3, _foo3, _foo4, _obj$prop4, _foo5, _obj$prop5, _foo6, _obj$prop6, _foo7, _foo8, _obj$prop7, _foo9, _obj$prop8, _foo10, _obj$prop9, _foo11, _foo12, _obj$prop10, _foo13, _obj$prop11, _foo14, _obj$prop12, _foo15, _foo16, _obj$prop13, _foo17, _obj$prop14, _foo18, _obj$prop15, _foo19, _foo20, _obj$prop16, _foo21, _obj$prop17, _foo22, _obj$prop18, _foo23, _foo24, _obj$prop19, _foo25, _obj$prop20, _foo26, _obj$prop21, _foo27, _foo28, _obj$prop22, _foo29, _obj$prop23, _foo30, _obj$prop24, _foo31, _foo32, _obj$prop25, _foo33, _obj$prop26, _foo34, _obj$prop27, _foo35, _foo36, _obj$prop28, _foo37, _obj$prop29, _foo38, _obj$prop30, _foo39, _foo40, _obj$prop31, _foo41, _obj$prop32, _foo42, _obj$prop33, _foo43, _foo44, _obj$prop34, _foo45, _obj$prop35, _foo46, _obj$prop36, _foo47, _foo48, _obj$prop37, _foo49, _obj$prop38, _foo50, _obj$prop39, _foo51, _foo52, _obj$prop40, _foo53, _obj$prop41, _foo54, _obj$prop42, _foo55, _foo56, _obj$prop43, _foo57, _obj$prop44, _foo58, _obj$prop45, _foo59, _foo60, _obj$prop46, _foo61, _obj$prop47, _foo62, _obj$prop48, _foo63, _foo64, _obj$prop49, _foo65, _obj$prop50, _foo66, _obj$prop51, _foo67, _foo68, _obj$prop52, _foo69, _obj$prop53, _foo70, _obj$prop54, _foo71, _foo72, _obj$prop55, _foo73, _obj$prop56, _foo74, _obj$prop57, _foo75, _foo76, _obj$prop58, _foo77, _obj$prop59, _foo78, _obj$prop60, _foo79, _foo80, _obj$prop61, _foo81, _obj$prop62, _foo82, _obj$prop63, _foo83, _foo84, _obj$prop64, _foo85, _obj$prop65, _foo86, _obj$prop66, _foo87, _foo88, _obj$prop67, _foo89, _obj$prop68, _foo90, _obj$prop69, _foo91, _foo92, _obj$prop70, _foo93, _obj$prop71, _foo94, _obj$prop72, _foo95, _foo96, _obj$prop73, _foo97, _obj$prop74, _foo98, _obj$prop75, _foo99, _foo100, _obj$prop76, _foo101, _obj$prop77, _foo102, _obj$prop78, _foo103, _foo104, _obj$prop79, _foo105, _obj$prop80, _foo106, _obj$prop81, _foo107, _foo108, _obj$prop82, _foo109, _obj$prop83, _foo110, _obj$prop84, _foo111, _foo112, _obj$prop85, _foo113, _obj$prop86, _foo114, _obj$prop87, _foo115, _foo116, _obj$prop88, _foo117, _obj$prop89, _foo118, _obj$prop90, _foo119, _foo120, _obj$prop91, _foo121, _obj$prop92, _foo122, _obj$prop93, _foo123, _foo124, _obj$prop94, _foo125, _obj$prop95, _foo126, _obj$prop96, _foo127, _foo128;
 function _getRequireWildcardCache(e) { if ("function" != typeof WeakMap) return null; var r = new WeakMap(), t = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(e) { return e ? t : r; })(e); }
 function _interopRequireWildcard(e, r) { if (!r && e && e.__esModule) return e; if (null === e || "object" != _typeof(e) && "function" != typeof e) return { "default": e }; var t = _getRequireWildcardCache(r); if (t && t.has(e)) return t.get(e); var n = { __proto__: null }, a = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var u in e) if ("default" !== u && {}.hasOwnProperty.call(e, u)) { var i = a ? Object.getOwnPropertyDescriptor(e, u) : null; i && (i.get || i.set) ? Object.defineProperty(n, u, i) : n[u] = e[u]; } return n["default"] = e, t && t.set(e, n), n; }
 function _regeneratorRuntime() { "use strict"; /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */ _regeneratorRuntime = function _regeneratorRuntime() { return e; }; var t, e = {}, r = Object.prototype, n = r.hasOwnProperty, o = Object.defineProperty || function (t, e, r) { t[e] = r.value; }, i = "function" == typeof Symbol ? Symbol : {}, a = i.iterator || "@@iterator", c = i.asyncIterator || "@@asyncIterator", u = i.toStringTag || "@@toStringTag"; function define(t, e, r) { return Object.defineProperty(t, e, { value: r, enumerable: !0, configurable: !0, writable: !0 }), t[e]; } try { define({}, ""); } catch (t) { define = function define(t, e, r) { return t[e] = r; }; } function wrap(t, e, r, n) { var i = e && e.prototype instanceof Generator ? e : Generator, a = Object.create(i.prototype), c = new Context(n || []); return o(a, "_invoke", { value: makeInvokeMethod(t, r, c) }), a; } function tryCatch(t, e, r) { try { return { type: "normal", arg: t.call(e, r) }; } catch (t) { return { type: "throw", arg: t }; } } e.wrap = wrap; var h = "suspendedStart", l = "suspendedYield", f = "executing", s = "completed", y = {}; function Generator() {} function GeneratorFunction() {} function GeneratorFunctionPrototype() {} var p = {}; define(p, a, function () { return this; }); var d = Object.getPrototypeOf, v = d && d(d(values([]))); v && v !== r && n.call(v, a) && (p = v); var g = GeneratorFunctionPrototype.prototype = Generator.prototype = Object.create(p); function defineIteratorMethods(t) { ["next", "throw", "return"].forEach(function (e) { define(t, e, function (t) { return this._invoke(e, t); }); }); } function AsyncIterator(t, e) { function invoke(r, o, i, a) { var c = tryCatch(t[r], t, o); if ("throw" !== c.type) { var u = c.arg, h = u.value; return h && "object" == _typeof(h) && n.call(h, "__await") ? e.resolve(h.__await).then(function (t) { invoke("next", t, i, a); }, function (t) { invoke("throw", t, i, a); }) : e.resolve(h).then(function (t) { u.value = t, i(u); }, function (t) { return invoke("throw", t, i, a); }); } a(c.arg); } var r; o(this, "_invoke", { value: function value(t, n) { function callInvokeWithMethodAndArg() { return new e(function (e, r) { invoke(t, n, e, r); }); } return r = r ? r.then(callInvokeWithMethodAndArg, callInvokeWithMethodAndArg) : callInvokeWithMethodAndArg(); } }); } function makeInvokeMethod(e, r, n) { var o = h; return function (i, a) { if (o === f) throw Error("Generator is already running"); if (o === s) { if ("throw" === i) throw a; return { value: t, done: !0 }; } for (n.method = i, n.arg = a;;) { var c = n.delegate; if (c) { var u = maybeInvokeDelegate(c, n); if (u) { if (u === y) continue; return u; } } if ("next" === n.method) n.sent = n._sent = n.arg;else if ("throw" === n.method) { if (o === h) throw o = s, n.arg; n.dispatchException(n.arg); } else "return" === n.method && n.abrupt("return", n.arg); o = f; var p = tryCatch(e, r, n); if ("normal" === p.type) { if (o = n.done ? s : l, p.arg === y) continue; return { value: p.arg, done: n.done }; } "throw" === p.type && (o = s, n.method = "throw", n.arg = p.arg); } }; } function maybeInvokeDelegate(e, r) { var n = r.method, o = e.iterator[n]; if (o === t) return r.delegate = null, "throw" === n && e.iterator["return"] && (r.method = "return", r.arg = t, maybeInvokeDelegate(e, r), "throw" === r.method) || "return" !== n && (r.method = "throw", r.arg = new TypeError("The iterator does not provide a '" + n + "' method")), y; var i = tryCatch(o, e.iterator, r.arg); if ("throw" === i.type) return r.method = "throw", r.arg = i.arg, r.delegate = null, y; var a = i.arg; return a ? a.done ? (r[e.resultName] = a.value, r.next = e.nextLoc, "return" !== r.method && (r.method = "next", r.arg = t), r.delegate = null, y) : a : (r.method = "throw", r.arg = new TypeError("iterator result is not an object"), r.delegate = null, y); } function pushTryEntry(t) { var e = { tryLoc: t[0] }; 1 in t && (e.catchLoc = t[1]), 2 in t && (e.finallyLoc = t[2], e.afterLoc = t[3]), this.tryEntries.push(e); } function resetTryEntry(t) { var e = t.completion || {}; e.type = "normal", delete e.arg, t.completion = e; } function Context(t) { this.tryEntries = [{ tryLoc: "root" }], t.forEach(pushTryEntry, this), this.reset(!0); } function values(e) { if (e || "" === e) { var r = e[a]; if (r) return r.call(e); if ("function" == typeof e.next) return e; if (!isNaN(e.length)) { var o = -1, i = function next() { for (; ++o < e.length;) if (n.call(e, o)) return next.value = e[o], next.done = !1, next; return next.value = t, next.done = !0, next; }; return i.next = i; } } throw new TypeError(_typeof(e) + " is not iterable"); } return GeneratorFunction.prototype = GeneratorFunctionPrototype, o(g, "constructor", { value: GeneratorFunctionPrototype, configurable: !0 }), o(GeneratorFunctionPrototype, "constructor", { value: GeneratorFunction, configurable: !0 }), GeneratorFunction.displayName = define(GeneratorFunctionPrototype, u, "GeneratorFunction"), e.isGeneratorFunction = function (t) { var e = "function" == typeof t && t.constructor; return !!e && (e === GeneratorFunction || "GeneratorFunction" === (e.displayName || e.name)); }, e.mark = function (t) { return Object.setPrototypeOf ? Object.setPrototypeOf(t, GeneratorFunctionPrototype) : (t.__proto__ = GeneratorFunctionPrototype, define(t, u, "GeneratorFunction")), t.prototype = Object.create(g), t; }, e.awrap = function (t) { return { __await: t }; }, defineIteratorMethods(AsyncIterator.prototype), define(AsyncIterator.prototype, c, function () { return this; }), e.AsyncIterator = AsyncIterator, e.async = function (t, r, n, o, i) { void 0 === i && (i = Promise); var a = new AsyncIterator(wrap(t, r, n, o), i); return e.isGeneratorFunction(r) ? a : a.next().then(function (t) { return t.done ? t.value : a.next(); }); }, defineIteratorMethods(g), define(g, u, "Generator"), define(g, a, function () { return this; }), define(g, "toString", function () { return "[object Generator]"; }), e.keys = function (t) { var e = Object(t), r = []; for (var n in e) r.push(n); return r.reverse(), function next() { for (; r.length;) { var t = r.pop(); if (t in e) return next.value = t, next.done = !1, next; } return next.done = !0, next; }; }, e.values = values, Context.prototype = { constructor: Context, reset: function reset(e) { if (this.prev = 0, this.next = 0, this.sent = this._sent = t, this.done = !1, this.delegate = null, this.method = "next", this.arg = t, this.tryEntries.forEach(resetTryEntry), !e) for (var r in this) "t" === r.charAt(0) && n.call(this, r) && !isNaN(+r.slice(1)) && (this[r] = t); }, stop: function stop() { this.done = !0; var t = this.tryEntries[0].completion; if ("throw" === t.type) throw t.arg; return this.rval; }, dispatchException: function dispatchException(e) { if (this.done) throw e; var r = this; function handle(n, o) { return a.type = "throw", a.arg = e, r.next = n, o && (r.method = "next", r.arg = t), !!o; } for (var o = this.tryEntries.length - 1; o >= 0; --o) { var i = this.tryEntries[o], a = i.completion; if ("root" === i.tryLoc) return handle("end"); if (i.tryLoc <= this.prev) { var c = n.call(i, "catchLoc"), u = n.call(i, "finallyLoc"); if (c && u) { if (this.prev < i.catchLoc) return handle(i.catchLoc, !0); if (this.prev < i.finallyLoc) return handle(i.finallyLoc); } else if (c) { if (this.prev < i.catchLoc) return handle(i.catchLoc, !0); } else { if (!u) throw Error("try statement without catch or finally"); if (this.prev < i.finallyLoc) return handle(i.finallyLoc); } } } }, abrupt: function abrupt(t, e) { for (var r = this.tryEntries.length - 1; r >= 0; --r) { var o = this.tryEntries[r]; if (o.tryLoc <= this.prev && n.call(o, "finallyLoc") && this.prev < o.finallyLoc) { var i = o; break; } } i && ("break" === t || "continue" === t) && i.tryLoc <= e && e <= i.finallyLoc && (i = null); var a = i ? i.completion : {}; return a.type = t, a.arg = e, i ? (this.method = "next", this.next = i.finallyLoc, y) : this.complete(a); }, complete: function complete(t, e) { if ("throw" === t.type) throw t.arg; return "break" === t.type || "continue" === t.type ? this.next = t.arg : "return" === t.type ? (this.rval = this.arg = t.arg, this.method = "return", this.next = "end") : "normal" === t.type && e && (this.next = e), y; }, finish: function finish(t) { for (var e = this.tryEntries.length - 1; e >= 0; --e) { var r = this.tryEntries[e]; if (r.finallyLoc === t) return this.complete(r.completion, r.afterLoc), resetTryEntry(r), y; } }, "catch": function _catch(t) { for (var e = this.tryEntries.length - 1; e >= 0; --e) { var r = this.tryEntries[e]; if (r.tryLoc === t) { var n = r.completion; if ("throw" === n.type) { var o = n.arg; resetTryEntry(r); } return o; } } throw Error("illegal catch attempt"); }, delegateYield: function delegateYield(e, r, n) { return this.delegate = { iterator: values(e), resultName: r, nextLoc: n }, "next" === this.method && (this.arg = t), y; } }, e; }
@@ -43,9 +43,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal) {
@@ -56,9 +54,7 @@ var Dog = /*#__PURE__*/function (_Animal) {
   _inherits(Dog, _Animal);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -121,9 +117,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal2) {
@@ -134,9 +128,7 @@ var Dog = /*#__PURE__*/function (_Animal2) {
   _inherits(Dog, _Animal2);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -199,9 +191,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal3) {
@@ -212,9 +202,7 @@ var Dog = /*#__PURE__*/function (_Animal3) {
   _inherits(Dog, _Animal3);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -270,6 +258,7 @@ await Promise.resolve().then(function () {
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo4 = foo) !== null && _foo4 !== void 0 ? _foo4 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -277,9 +266,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal4) {
@@ -290,9 +277,7 @@ var Dog = /*#__PURE__*/function (_Animal4) {
   _inherits(Dog, _Animal4);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -342,7 +327,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop4 = obj.prop1) === null || _obj$prop4 === void 0 || _obj$prop4.prop2;
 var foo = null;
-(_foo4 = foo) !== null && _foo4 !== void 0 ? _foo4 : 'default';
+(_foo5 = foo) !== null && _foo5 !== void 0 ? _foo5 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -355,9 +340,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal5) {
@@ -368,9 +351,7 @@ var Dog = /*#__PURE__*/function (_Animal5) {
   _inherits(Dog, _Animal5);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -420,7 +401,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop5 = obj.prop1) === null || _obj$prop5 === void 0 || _obj$prop5.prop2;
 var foo = null;
-(_foo5 = foo) !== null && _foo5 !== void 0 ? _foo5 : 'default';
+(_foo6 = foo) !== null && _foo6 !== void 0 ? _foo6 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -433,9 +414,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal6) {
@@ -446,9 +425,7 @@ var Dog = /*#__PURE__*/function (_Animal6) {
   _inherits(Dog, _Animal6);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -498,12 +475,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop6 = obj.prop1) === null || _obj$prop6 === void 0 || _obj$prop6.prop2;
 var foo = null;
-(_foo6 = foo) !== null && _foo6 !== void 0 ? _foo6 : 'default';
+(_foo7 = foo) !== null && _foo7 !== void 0 ? _foo7 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo8 = foo) !== null && _foo8 !== void 0 ? _foo8 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -511,9 +489,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal7) {
@@ -524,9 +500,7 @@ var Dog = /*#__PURE__*/function (_Animal7) {
   _inherits(Dog, _Animal7);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -576,7 +550,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop7 = obj.prop1) === null || _obj$prop7 === void 0 || _obj$prop7.prop2;
 var foo = null;
-(_foo7 = foo) !== null && _foo7 !== void 0 ? _foo7 : 'default';
+(_foo9 = foo) !== null && _foo9 !== void 0 ? _foo9 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -589,9 +563,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal8) {
@@ -602,9 +574,7 @@ var Dog = /*#__PURE__*/function (_Animal8) {
   _inherits(Dog, _Animal8);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -654,7 +624,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop8 = obj.prop1) === null || _obj$prop8 === void 0 || _obj$prop8.prop2;
 var foo = null;
-(_foo8 = foo) !== null && _foo8 !== void 0 ? _foo8 : 'default';
+(_foo10 = foo) !== null && _foo10 !== void 0 ? _foo10 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -667,9 +637,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal9) {
@@ -680,9 +648,7 @@ var Dog = /*#__PURE__*/function (_Animal9) {
   _inherits(Dog, _Animal9);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -732,12 +698,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop9 = obj.prop1) === null || _obj$prop9 === void 0 || _obj$prop9.prop2;
 var foo = null;
-(_foo9 = foo) !== null && _foo9 !== void 0 ? _foo9 : 'default';
+(_foo11 = foo) !== null && _foo11 !== void 0 ? _foo11 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo12 = foo) !== null && _foo12 !== void 0 ? _foo12 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -745,9 +712,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal10) {
@@ -758,9 +723,7 @@ var Dog = /*#__PURE__*/function (_Animal10) {
   _inherits(Dog, _Animal10);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -810,7 +773,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop10 = obj.prop1) === null || _obj$prop10 === void 0 || _obj$prop10.prop2;
 var foo = null;
-(_foo10 = foo) !== null && _foo10 !== void 0 ? _foo10 : 'default';
+(_foo13 = foo) !== null && _foo13 !== void 0 ? _foo13 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -823,9 +786,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal11) {
@@ -836,9 +797,7 @@ var Dog = /*#__PURE__*/function (_Animal11) {
   _inherits(Dog, _Animal11);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -888,7 +847,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop11 = obj.prop1) === null || _obj$prop11 === void 0 || _obj$prop11.prop2;
 var foo = null;
-(_foo11 = foo) !== null && _foo11 !== void 0 ? _foo11 : 'default';
+(_foo14 = foo) !== null && _foo14 !== void 0 ? _foo14 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -901,9 +860,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal12) {
@@ -914,9 +871,7 @@ var Dog = /*#__PURE__*/function (_Animal12) {
   _inherits(Dog, _Animal12);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -966,12 +921,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop12 = obj.prop1) === null || _obj$prop12 === void 0 || _obj$prop12.prop2;
 var foo = null;
-(_foo12 = foo) !== null && _foo12 !== void 0 ? _foo12 : 'default';
+(_foo15 = foo) !== null && _foo15 !== void 0 ? _foo15 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo16 = foo) !== null && _foo16 !== void 0 ? _foo16 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -979,9 +935,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal13) {
@@ -992,9 +946,7 @@ var Dog = /*#__PURE__*/function (_Animal13) {
   _inherits(Dog, _Animal13);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -1044,7 +996,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop13 = obj.prop1) === null || _obj$prop13 === void 0 || _obj$prop13.prop2;
 var foo = null;
-(_foo13 = foo) !== null && _foo13 !== void 0 ? _foo13 : 'default';
+(_foo17 = foo) !== null && _foo17 !== void 0 ? _foo17 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -1057,9 +1009,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal14) {
@@ -1070,9 +1020,7 @@ var Dog = /*#__PURE__*/function (_Animal14) {
   _inherits(Dog, _Animal14);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -1122,7 +1070,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop14 = obj.prop1) === null || _obj$prop14 === void 0 || _obj$prop14.prop2;
 var foo = null;
-(_foo14 = foo) !== null && _foo14 !== void 0 ? _foo14 : 'default';
+(_foo18 = foo) !== null && _foo18 !== void 0 ? _foo18 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -1135,9 +1083,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal15) {
@@ -1148,9 +1094,7 @@ var Dog = /*#__PURE__*/function (_Animal15) {
   _inherits(Dog, _Animal15);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -1200,12 +1144,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop15 = obj.prop1) === null || _obj$prop15 === void 0 || _obj$prop15.prop2;
 var foo = null;
-(_foo15 = foo) !== null && _foo15 !== void 0 ? _foo15 : 'default';
+(_foo19 = foo) !== null && _foo19 !== void 0 ? _foo19 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo20 = foo) !== null && _foo20 !== void 0 ? _foo20 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -1213,9 +1158,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal16) {
@@ -1226,9 +1169,7 @@ var Dog = /*#__PURE__*/function (_Animal16) {
   _inherits(Dog, _Animal16);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -1278,7 +1219,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop16 = obj.prop1) === null || _obj$prop16 === void 0 || _obj$prop16.prop2;
 var foo = null;
-(_foo16 = foo) !== null && _foo16 !== void 0 ? _foo16 : 'default';
+(_foo21 = foo) !== null && _foo21 !== void 0 ? _foo21 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -1291,9 +1232,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal17) {
@@ -1304,9 +1243,7 @@ var Dog = /*#__PURE__*/function (_Animal17) {
   _inherits(Dog, _Animal17);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -1356,7 +1293,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop17 = obj.prop1) === null || _obj$prop17 === void 0 || _obj$prop17.prop2;
 var foo = null;
-(_foo17 = foo) !== null && _foo17 !== void 0 ? _foo17 : 'default';
+(_foo22 = foo) !== null && _foo22 !== void 0 ? _foo22 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -1369,9 +1306,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal18) {
@@ -1382,9 +1317,7 @@ var Dog = /*#__PURE__*/function (_Animal18) {
   _inherits(Dog, _Animal18);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -1434,12 +1367,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop18 = obj.prop1) === null || _obj$prop18 === void 0 || _obj$prop18.prop2;
 var foo = null;
-(_foo18 = foo) !== null && _foo18 !== void 0 ? _foo18 : 'default';
+(_foo23 = foo) !== null && _foo23 !== void 0 ? _foo23 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo24 = foo) !== null && _foo24 !== void 0 ? _foo24 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -1447,9 +1381,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal19) {
@@ -1460,9 +1392,7 @@ var Dog = /*#__PURE__*/function (_Animal19) {
   _inherits(Dog, _Animal19);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -1512,7 +1442,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop19 = obj.prop1) === null || _obj$prop19 === void 0 || _obj$prop19.prop2;
 var foo = null;
-(_foo19 = foo) !== null && _foo19 !== void 0 ? _foo19 : 'default';
+(_foo25 = foo) !== null && _foo25 !== void 0 ? _foo25 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -1525,9 +1455,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal20) {
@@ -1538,9 +1466,7 @@ var Dog = /*#__PURE__*/function (_Animal20) {
   _inherits(Dog, _Animal20);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -1590,7 +1516,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop20 = obj.prop1) === null || _obj$prop20 === void 0 || _obj$prop20.prop2;
 var foo = null;
-(_foo20 = foo) !== null && _foo20 !== void 0 ? _foo20 : 'default';
+(_foo26 = foo) !== null && _foo26 !== void 0 ? _foo26 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -1603,9 +1529,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal21) {
@@ -1616,9 +1540,7 @@ var Dog = /*#__PURE__*/function (_Animal21) {
   _inherits(Dog, _Animal21);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -1668,12 +1590,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop21 = obj.prop1) === null || _obj$prop21 === void 0 || _obj$prop21.prop2;
 var foo = null;
-(_foo21 = foo) !== null && _foo21 !== void 0 ? _foo21 : 'default';
+(_foo27 = foo) !== null && _foo27 !== void 0 ? _foo27 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo28 = foo) !== null && _foo28 !== void 0 ? _foo28 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -1681,9 +1604,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal22) {
@@ -1694,9 +1615,7 @@ var Dog = /*#__PURE__*/function (_Animal22) {
   _inherits(Dog, _Animal22);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -1746,7 +1665,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop22 = obj.prop1) === null || _obj$prop22 === void 0 || _obj$prop22.prop2;
 var foo = null;
-(_foo22 = foo) !== null && _foo22 !== void 0 ? _foo22 : 'default';
+(_foo29 = foo) !== null && _foo29 !== void 0 ? _foo29 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -1759,9 +1678,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal23) {
@@ -1772,9 +1689,7 @@ var Dog = /*#__PURE__*/function (_Animal23) {
   _inherits(Dog, _Animal23);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -1824,7 +1739,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop23 = obj.prop1) === null || _obj$prop23 === void 0 || _obj$prop23.prop2;
 var foo = null;
-(_foo23 = foo) !== null && _foo23 !== void 0 ? _foo23 : 'default';
+(_foo30 = foo) !== null && _foo30 !== void 0 ? _foo30 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -1837,9 +1752,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal24) {
@@ -1850,9 +1763,7 @@ var Dog = /*#__PURE__*/function (_Animal24) {
   _inherits(Dog, _Animal24);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -1902,12 +1813,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop24 = obj.prop1) === null || _obj$prop24 === void 0 || _obj$prop24.prop2;
 var foo = null;
-(_foo24 = foo) !== null && _foo24 !== void 0 ? _foo24 : 'default';
+(_foo31 = foo) !== null && _foo31 !== void 0 ? _foo31 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo32 = foo) !== null && _foo32 !== void 0 ? _foo32 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -1915,9 +1827,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal25) {
@@ -1928,9 +1838,7 @@ var Dog = /*#__PURE__*/function (_Animal25) {
   _inherits(Dog, _Animal25);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -1980,7 +1888,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop25 = obj.prop1) === null || _obj$prop25 === void 0 || _obj$prop25.prop2;
 var foo = null;
-(_foo25 = foo) !== null && _foo25 !== void 0 ? _foo25 : 'default';
+(_foo33 = foo) !== null && _foo33 !== void 0 ? _foo33 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -1993,9 +1901,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal26) {
@@ -2006,9 +1912,7 @@ var Dog = /*#__PURE__*/function (_Animal26) {
   _inherits(Dog, _Animal26);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -2058,7 +1962,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop26 = obj.prop1) === null || _obj$prop26 === void 0 || _obj$prop26.prop2;
 var foo = null;
-(_foo26 = foo) !== null && _foo26 !== void 0 ? _foo26 : 'default';
+(_foo34 = foo) !== null && _foo34 !== void 0 ? _foo34 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -2071,9 +1975,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal27) {
@@ -2084,9 +1986,7 @@ var Dog = /*#__PURE__*/function (_Animal27) {
   _inherits(Dog, _Animal27);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -2136,12 +2036,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop27 = obj.prop1) === null || _obj$prop27 === void 0 || _obj$prop27.prop2;
 var foo = null;
-(_foo27 = foo) !== null && _foo27 !== void 0 ? _foo27 : 'default';
+(_foo35 = foo) !== null && _foo35 !== void 0 ? _foo35 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo36 = foo) !== null && _foo36 !== void 0 ? _foo36 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -2149,9 +2050,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal28) {
@@ -2162,9 +2061,7 @@ var Dog = /*#__PURE__*/function (_Animal28) {
   _inherits(Dog, _Animal28);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -2214,7 +2111,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop28 = obj.prop1) === null || _obj$prop28 === void 0 || _obj$prop28.prop2;
 var foo = null;
-(_foo28 = foo) !== null && _foo28 !== void 0 ? _foo28 : 'default';
+(_foo37 = foo) !== null && _foo37 !== void 0 ? _foo37 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -2227,9 +2124,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal29) {
@@ -2240,9 +2135,7 @@ var Dog = /*#__PURE__*/function (_Animal29) {
   _inherits(Dog, _Animal29);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -2292,7 +2185,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop29 = obj.prop1) === null || _obj$prop29 === void 0 || _obj$prop29.prop2;
 var foo = null;
-(_foo29 = foo) !== null && _foo29 !== void 0 ? _foo29 : 'default';
+(_foo38 = foo) !== null && _foo38 !== void 0 ? _foo38 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -2305,9 +2198,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal30) {
@@ -2318,9 +2209,7 @@ var Dog = /*#__PURE__*/function (_Animal30) {
   _inherits(Dog, _Animal30);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -2370,12 +2259,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop30 = obj.prop1) === null || _obj$prop30 === void 0 || _obj$prop30.prop2;
 var foo = null;
-(_foo30 = foo) !== null && _foo30 !== void 0 ? _foo30 : 'default';
+(_foo39 = foo) !== null && _foo39 !== void 0 ? _foo39 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo40 = foo) !== null && _foo40 !== void 0 ? _foo40 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -2383,9 +2273,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal31) {
@@ -2396,9 +2284,7 @@ var Dog = /*#__PURE__*/function (_Animal31) {
   _inherits(Dog, _Animal31);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -2448,7 +2334,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop31 = obj.prop1) === null || _obj$prop31 === void 0 || _obj$prop31.prop2;
 var foo = null;
-(_foo31 = foo) !== null && _foo31 !== void 0 ? _foo31 : 'default';
+(_foo41 = foo) !== null && _foo41 !== void 0 ? _foo41 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -2461,9 +2347,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal32) {
@@ -2474,9 +2358,7 @@ var Dog = /*#__PURE__*/function (_Animal32) {
   _inherits(Dog, _Animal32);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -2526,7 +2408,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop32 = obj.prop1) === null || _obj$prop32 === void 0 || _obj$prop32.prop2;
 var foo = null;
-(_foo32 = foo) !== null && _foo32 !== void 0 ? _foo32 : 'default';
+(_foo42 = foo) !== null && _foo42 !== void 0 ? _foo42 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -2539,9 +2421,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal33) {
@@ -2552,9 +2432,7 @@ var Dog = /*#__PURE__*/function (_Animal33) {
   _inherits(Dog, _Animal33);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -2604,12 +2482,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop33 = obj.prop1) === null || _obj$prop33 === void 0 || _obj$prop33.prop2;
 var foo = null;
-(_foo33 = foo) !== null && _foo33 !== void 0 ? _foo33 : 'default';
+(_foo43 = foo) !== null && _foo43 !== void 0 ? _foo43 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo44 = foo) !== null && _foo44 !== void 0 ? _foo44 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -2617,9 +2496,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal34) {
@@ -2630,9 +2507,7 @@ var Dog = /*#__PURE__*/function (_Animal34) {
   _inherits(Dog, _Animal34);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -2682,7 +2557,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop34 = obj.prop1) === null || _obj$prop34 === void 0 || _obj$prop34.prop2;
 var foo = null;
-(_foo34 = foo) !== null && _foo34 !== void 0 ? _foo34 : 'default';
+(_foo45 = foo) !== null && _foo45 !== void 0 ? _foo45 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -2695,9 +2570,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal35) {
@@ -2708,9 +2581,7 @@ var Dog = /*#__PURE__*/function (_Animal35) {
   _inherits(Dog, _Animal35);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -2760,7 +2631,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop35 = obj.prop1) === null || _obj$prop35 === void 0 || _obj$prop35.prop2;
 var foo = null;
-(_foo35 = foo) !== null && _foo35 !== void 0 ? _foo35 : 'default';
+(_foo46 = foo) !== null && _foo46 !== void 0 ? _foo46 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -2773,9 +2644,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal36) {
@@ -2786,9 +2655,7 @@ var Dog = /*#__PURE__*/function (_Animal36) {
   _inherits(Dog, _Animal36);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -2838,12 +2705,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop36 = obj.prop1) === null || _obj$prop36 === void 0 || _obj$prop36.prop2;
 var foo = null;
-(_foo36 = foo) !== null && _foo36 !== void 0 ? _foo36 : 'default';
+(_foo47 = foo) !== null && _foo47 !== void 0 ? _foo47 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo48 = foo) !== null && _foo48 !== void 0 ? _foo48 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -2851,9 +2719,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal37) {
@@ -2864,9 +2730,7 @@ var Dog = /*#__PURE__*/function (_Animal37) {
   _inherits(Dog, _Animal37);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -2916,7 +2780,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop37 = obj.prop1) === null || _obj$prop37 === void 0 || _obj$prop37.prop2;
 var foo = null;
-(_foo37 = foo) !== null && _foo37 !== void 0 ? _foo37 : 'default';
+(_foo49 = foo) !== null && _foo49 !== void 0 ? _foo49 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -2929,9 +2793,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal38) {
@@ -2942,9 +2804,7 @@ var Dog = /*#__PURE__*/function (_Animal38) {
   _inherits(Dog, _Animal38);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -2994,7 +2854,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop38 = obj.prop1) === null || _obj$prop38 === void 0 || _obj$prop38.prop2;
 var foo = null;
-(_foo38 = foo) !== null && _foo38 !== void 0 ? _foo38 : 'default';
+(_foo50 = foo) !== null && _foo50 !== void 0 ? _foo50 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -3007,9 +2867,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal39) {
@@ -3020,9 +2878,7 @@ var Dog = /*#__PURE__*/function (_Animal39) {
   _inherits(Dog, _Animal39);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -3072,12 +2928,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop39 = obj.prop1) === null || _obj$prop39 === void 0 || _obj$prop39.prop2;
 var foo = null;
-(_foo39 = foo) !== null && _foo39 !== void 0 ? _foo39 : 'default';
+(_foo51 = foo) !== null && _foo51 !== void 0 ? _foo51 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo52 = foo) !== null && _foo52 !== void 0 ? _foo52 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -3085,9 +2942,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal40) {
@@ -3098,9 +2953,7 @@ var Dog = /*#__PURE__*/function (_Animal40) {
   _inherits(Dog, _Animal40);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -3150,7 +3003,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop40 = obj.prop1) === null || _obj$prop40 === void 0 || _obj$prop40.prop2;
 var foo = null;
-(_foo40 = foo) !== null && _foo40 !== void 0 ? _foo40 : 'default';
+(_foo53 = foo) !== null && _foo53 !== void 0 ? _foo53 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -3163,9 +3016,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal41) {
@@ -3176,9 +3027,7 @@ var Dog = /*#__PURE__*/function (_Animal41) {
   _inherits(Dog, _Animal41);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -3228,7 +3077,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop41 = obj.prop1) === null || _obj$prop41 === void 0 || _obj$prop41.prop2;
 var foo = null;
-(_foo41 = foo) !== null && _foo41 !== void 0 ? _foo41 : 'default';
+(_foo54 = foo) !== null && _foo54 !== void 0 ? _foo54 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -3241,9 +3090,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal42) {
@@ -3254,9 +3101,7 @@ var Dog = /*#__PURE__*/function (_Animal42) {
   _inherits(Dog, _Animal42);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -3306,12 +3151,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop42 = obj.prop1) === null || _obj$prop42 === void 0 || _obj$prop42.prop2;
 var foo = null;
-(_foo42 = foo) !== null && _foo42 !== void 0 ? _foo42 : 'default';
+(_foo55 = foo) !== null && _foo55 !== void 0 ? _foo55 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo56 = foo) !== null && _foo56 !== void 0 ? _foo56 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -3319,9 +3165,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal43) {
@@ -3332,9 +3176,7 @@ var Dog = /*#__PURE__*/function (_Animal43) {
   _inherits(Dog, _Animal43);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -3384,7 +3226,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop43 = obj.prop1) === null || _obj$prop43 === void 0 || _obj$prop43.prop2;
 var foo = null;
-(_foo43 = foo) !== null && _foo43 !== void 0 ? _foo43 : 'default';
+(_foo57 = foo) !== null && _foo57 !== void 0 ? _foo57 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -3397,9 +3239,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal44) {
@@ -3410,9 +3250,7 @@ var Dog = /*#__PURE__*/function (_Animal44) {
   _inherits(Dog, _Animal44);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -3462,7 +3300,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop44 = obj.prop1) === null || _obj$prop44 === void 0 || _obj$prop44.prop2;
 var foo = null;
-(_foo44 = foo) !== null && _foo44 !== void 0 ? _foo44 : 'default';
+(_foo58 = foo) !== null && _foo58 !== void 0 ? _foo58 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -3475,9 +3313,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal45) {
@@ -3488,9 +3324,7 @@ var Dog = /*#__PURE__*/function (_Animal45) {
   _inherits(Dog, _Animal45);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -3540,12 +3374,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop45 = obj.prop1) === null || _obj$prop45 === void 0 || _obj$prop45.prop2;
 var foo = null;
-(_foo45 = foo) !== null && _foo45 !== void 0 ? _foo45 : 'default';
+(_foo59 = foo) !== null && _foo59 !== void 0 ? _foo59 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo60 = foo) !== null && _foo60 !== void 0 ? _foo60 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -3553,9 +3388,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal46) {
@@ -3566,9 +3399,7 @@ var Dog = /*#__PURE__*/function (_Animal46) {
   _inherits(Dog, _Animal46);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -3618,7 +3449,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop46 = obj.prop1) === null || _obj$prop46 === void 0 || _obj$prop46.prop2;
 var foo = null;
-(_foo46 = foo) !== null && _foo46 !== void 0 ? _foo46 : 'default';
+(_foo61 = foo) !== null && _foo61 !== void 0 ? _foo61 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -3631,9 +3462,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal47) {
@@ -3644,9 +3473,7 @@ var Dog = /*#__PURE__*/function (_Animal47) {
   _inherits(Dog, _Animal47);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -3696,7 +3523,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop47 = obj.prop1) === null || _obj$prop47 === void 0 || _obj$prop47.prop2;
 var foo = null;
-(_foo47 = foo) !== null && _foo47 !== void 0 ? _foo47 : 'default';
+(_foo62 = foo) !== null && _foo62 !== void 0 ? _foo62 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -3709,9 +3536,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal48) {
@@ -3722,9 +3547,7 @@ var Dog = /*#__PURE__*/function (_Animal48) {
   _inherits(Dog, _Animal48);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -3774,12 +3597,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop48 = obj.prop1) === null || _obj$prop48 === void 0 || _obj$prop48.prop2;
 var foo = null;
-(_foo48 = foo) !== null && _foo48 !== void 0 ? _foo48 : 'default';
+(_foo63 = foo) !== null && _foo63 !== void 0 ? _foo63 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo64 = foo) !== null && _foo64 !== void 0 ? _foo64 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -3787,9 +3611,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal49) {
@@ -3800,9 +3622,7 @@ var Dog = /*#__PURE__*/function (_Animal49) {
   _inherits(Dog, _Animal49);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -3852,7 +3672,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop49 = obj.prop1) === null || _obj$prop49 === void 0 || _obj$prop49.prop2;
 var foo = null;
-(_foo49 = foo) !== null && _foo49 !== void 0 ? _foo49 : 'default';
+(_foo65 = foo) !== null && _foo65 !== void 0 ? _foo65 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -3865,9 +3685,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal50) {
@@ -3878,9 +3696,7 @@ var Dog = /*#__PURE__*/function (_Animal50) {
   _inherits(Dog, _Animal50);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -3930,7 +3746,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop50 = obj.prop1) === null || _obj$prop50 === void 0 || _obj$prop50.prop2;
 var foo = null;
-(_foo50 = foo) !== null && _foo50 !== void 0 ? _foo50 : 'default';
+(_foo66 = foo) !== null && _foo66 !== void 0 ? _foo66 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -3943,9 +3759,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal51) {
@@ -3956,9 +3770,7 @@ var Dog = /*#__PURE__*/function (_Animal51) {
   _inherits(Dog, _Animal51);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -4008,12 +3820,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop51 = obj.prop1) === null || _obj$prop51 === void 0 || _obj$prop51.prop2;
 var foo = null;
-(_foo51 = foo) !== null && _foo51 !== void 0 ? _foo51 : 'default';
+(_foo67 = foo) !== null && _foo67 !== void 0 ? _foo67 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo68 = foo) !== null && _foo68 !== void 0 ? _foo68 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -4021,9 +3834,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal52) {
@@ -4034,9 +3845,7 @@ var Dog = /*#__PURE__*/function (_Animal52) {
   _inherits(Dog, _Animal52);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -4086,7 +3895,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop52 = obj.prop1) === null || _obj$prop52 === void 0 || _obj$prop52.prop2;
 var foo = null;
-(_foo52 = foo) !== null && _foo52 !== void 0 ? _foo52 : 'default';
+(_foo69 = foo) !== null && _foo69 !== void 0 ? _foo69 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -4099,9 +3908,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal53) {
@@ -4112,9 +3919,7 @@ var Dog = /*#__PURE__*/function (_Animal53) {
   _inherits(Dog, _Animal53);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -4164,7 +3969,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop53 = obj.prop1) === null || _obj$prop53 === void 0 || _obj$prop53.prop2;
 var foo = null;
-(_foo53 = foo) !== null && _foo53 !== void 0 ? _foo53 : 'default';
+(_foo70 = foo) !== null && _foo70 !== void 0 ? _foo70 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -4177,9 +3982,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal54) {
@@ -4190,9 +3993,7 @@ var Dog = /*#__PURE__*/function (_Animal54) {
   _inherits(Dog, _Animal54);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -4242,12 +4043,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop54 = obj.prop1) === null || _obj$prop54 === void 0 || _obj$prop54.prop2;
 var foo = null;
-(_foo54 = foo) !== null && _foo54 !== void 0 ? _foo54 : 'default';
+(_foo71 = foo) !== null && _foo71 !== void 0 ? _foo71 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo72 = foo) !== null && _foo72 !== void 0 ? _foo72 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -4255,9 +4057,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal55) {
@@ -4268,9 +4068,7 @@ var Dog = /*#__PURE__*/function (_Animal55) {
   _inherits(Dog, _Animal55);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -4320,7 +4118,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop55 = obj.prop1) === null || _obj$prop55 === void 0 || _obj$prop55.prop2;
 var foo = null;
-(_foo55 = foo) !== null && _foo55 !== void 0 ? _foo55 : 'default';
+(_foo73 = foo) !== null && _foo73 !== void 0 ? _foo73 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -4333,9 +4131,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal56) {
@@ -4346,9 +4142,7 @@ var Dog = /*#__PURE__*/function (_Animal56) {
   _inherits(Dog, _Animal56);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -4398,7 +4192,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop56 = obj.prop1) === null || _obj$prop56 === void 0 || _obj$prop56.prop2;
 var foo = null;
-(_foo56 = foo) !== null && _foo56 !== void 0 ? _foo56 : 'default';
+(_foo74 = foo) !== null && _foo74 !== void 0 ? _foo74 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -4411,9 +4205,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal57) {
@@ -4424,9 +4216,7 @@ var Dog = /*#__PURE__*/function (_Animal57) {
   _inherits(Dog, _Animal57);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -4476,12 +4266,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop57 = obj.prop1) === null || _obj$prop57 === void 0 || _obj$prop57.prop2;
 var foo = null;
-(_foo57 = foo) !== null && _foo57 !== void 0 ? _foo57 : 'default';
+(_foo75 = foo) !== null && _foo75 !== void 0 ? _foo75 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo76 = foo) !== null && _foo76 !== void 0 ? _foo76 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -4489,9 +4280,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal58) {
@@ -4502,9 +4291,7 @@ var Dog = /*#__PURE__*/function (_Animal58) {
   _inherits(Dog, _Animal58);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -4554,7 +4341,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop58 = obj.prop1) === null || _obj$prop58 === void 0 || _obj$prop58.prop2;
 var foo = null;
-(_foo58 = foo) !== null && _foo58 !== void 0 ? _foo58 : 'default';
+(_foo77 = foo) !== null && _foo77 !== void 0 ? _foo77 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -4567,9 +4354,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal59) {
@@ -4580,9 +4365,7 @@ var Dog = /*#__PURE__*/function (_Animal59) {
   _inherits(Dog, _Animal59);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -4632,7 +4415,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop59 = obj.prop1) === null || _obj$prop59 === void 0 || _obj$prop59.prop2;
 var foo = null;
-(_foo59 = foo) !== null && _foo59 !== void 0 ? _foo59 : 'default';
+(_foo78 = foo) !== null && _foo78 !== void 0 ? _foo78 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -4645,9 +4428,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal60) {
@@ -4658,9 +4439,7 @@ var Dog = /*#__PURE__*/function (_Animal60) {
   _inherits(Dog, _Animal60);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -4710,12 +4489,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop60 = obj.prop1) === null || _obj$prop60 === void 0 || _obj$prop60.prop2;
 var foo = null;
-(_foo60 = foo) !== null && _foo60 !== void 0 ? _foo60 : 'default';
+(_foo79 = foo) !== null && _foo79 !== void 0 ? _foo79 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo80 = foo) !== null && _foo80 !== void 0 ? _foo80 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -4723,9 +4503,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal61) {
@@ -4736,9 +4514,7 @@ var Dog = /*#__PURE__*/function (_Animal61) {
   _inherits(Dog, _Animal61);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -4788,7 +4564,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop61 = obj.prop1) === null || _obj$prop61 === void 0 || _obj$prop61.prop2;
 var foo = null;
-(_foo61 = foo) !== null && _foo61 !== void 0 ? _foo61 : 'default';
+(_foo81 = foo) !== null && _foo81 !== void 0 ? _foo81 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -4801,9 +4577,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal62) {
@@ -4814,9 +4588,7 @@ var Dog = /*#__PURE__*/function (_Animal62) {
   _inherits(Dog, _Animal62);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -4866,7 +4638,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop62 = obj.prop1) === null || _obj$prop62 === void 0 || _obj$prop62.prop2;
 var foo = null;
-(_foo62 = foo) !== null && _foo62 !== void 0 ? _foo62 : 'default';
+(_foo82 = foo) !== null && _foo82 !== void 0 ? _foo82 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -4879,9 +4651,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal63) {
@@ -4892,9 +4662,7 @@ var Dog = /*#__PURE__*/function (_Animal63) {
   _inherits(Dog, _Animal63);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -4944,12 +4712,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop63 = obj.prop1) === null || _obj$prop63 === void 0 || _obj$prop63.prop2;
 var foo = null;
-(_foo63 = foo) !== null && _foo63 !== void 0 ? _foo63 : 'default';
+(_foo83 = foo) !== null && _foo83 !== void 0 ? _foo83 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo84 = foo) !== null && _foo84 !== void 0 ? _foo84 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -4957,9 +4726,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal64) {
@@ -4970,9 +4737,7 @@ var Dog = /*#__PURE__*/function (_Animal64) {
   _inherits(Dog, _Animal64);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -5022,7 +4787,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop64 = obj.prop1) === null || _obj$prop64 === void 0 || _obj$prop64.prop2;
 var foo = null;
-(_foo64 = foo) !== null && _foo64 !== void 0 ? _foo64 : 'default';
+(_foo85 = foo) !== null && _foo85 !== void 0 ? _foo85 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -5035,9 +4800,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal65) {
@@ -5048,9 +4811,7 @@ var Dog = /*#__PURE__*/function (_Animal65) {
   _inherits(Dog, _Animal65);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -5100,7 +4861,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop65 = obj.prop1) === null || _obj$prop65 === void 0 || _obj$prop65.prop2;
 var foo = null;
-(_foo65 = foo) !== null && _foo65 !== void 0 ? _foo65 : 'default';
+(_foo86 = foo) !== null && _foo86 !== void 0 ? _foo86 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -5113,9 +4874,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal66) {
@@ -5126,9 +4885,7 @@ var Dog = /*#__PURE__*/function (_Animal66) {
   _inherits(Dog, _Animal66);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -5178,12 +4935,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop66 = obj.prop1) === null || _obj$prop66 === void 0 || _obj$prop66.prop2;
 var foo = null;
-(_foo66 = foo) !== null && _foo66 !== void 0 ? _foo66 : 'default';
+(_foo87 = foo) !== null && _foo87 !== void 0 ? _foo87 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo88 = foo) !== null && _foo88 !== void 0 ? _foo88 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -5191,9 +4949,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal67) {
@@ -5204,9 +4960,7 @@ var Dog = /*#__PURE__*/function (_Animal67) {
   _inherits(Dog, _Animal67);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -5256,7 +5010,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop67 = obj.prop1) === null || _obj$prop67 === void 0 || _obj$prop67.prop2;
 var foo = null;
-(_foo67 = foo) !== null && _foo67 !== void 0 ? _foo67 : 'default';
+(_foo89 = foo) !== null && _foo89 !== void 0 ? _foo89 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -5269,9 +5023,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal68) {
@@ -5282,9 +5034,7 @@ var Dog = /*#__PURE__*/function (_Animal68) {
   _inherits(Dog, _Animal68);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -5334,7 +5084,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop68 = obj.prop1) === null || _obj$prop68 === void 0 || _obj$prop68.prop2;
 var foo = null;
-(_foo68 = foo) !== null && _foo68 !== void 0 ? _foo68 : 'default';
+(_foo90 = foo) !== null && _foo90 !== void 0 ? _foo90 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -5347,9 +5097,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal69) {
@@ -5360,9 +5108,7 @@ var Dog = /*#__PURE__*/function (_Animal69) {
   _inherits(Dog, _Animal69);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -5412,12 +5158,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop69 = obj.prop1) === null || _obj$prop69 === void 0 || _obj$prop69.prop2;
 var foo = null;
-(_foo69 = foo) !== null && _foo69 !== void 0 ? _foo69 : 'default';
+(_foo91 = foo) !== null && _foo91 !== void 0 ? _foo91 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo92 = foo) !== null && _foo92 !== void 0 ? _foo92 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -5425,9 +5172,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal70) {
@@ -5438,9 +5183,7 @@ var Dog = /*#__PURE__*/function (_Animal70) {
   _inherits(Dog, _Animal70);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -5490,7 +5233,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop70 = obj.prop1) === null || _obj$prop70 === void 0 || _obj$prop70.prop2;
 var foo = null;
-(_foo70 = foo) !== null && _foo70 !== void 0 ? _foo70 : 'default';
+(_foo93 = foo) !== null && _foo93 !== void 0 ? _foo93 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -5503,9 +5246,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal71) {
@@ -5516,9 +5257,7 @@ var Dog = /*#__PURE__*/function (_Animal71) {
   _inherits(Dog, _Animal71);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -5568,7 +5307,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop71 = obj.prop1) === null || _obj$prop71 === void 0 || _obj$prop71.prop2;
 var foo = null;
-(_foo71 = foo) !== null && _foo71 !== void 0 ? _foo71 : 'default';
+(_foo94 = foo) !== null && _foo94 !== void 0 ? _foo94 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -5581,9 +5320,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal72) {
@@ -5594,9 +5331,7 @@ var Dog = /*#__PURE__*/function (_Animal72) {
   _inherits(Dog, _Animal72);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -5646,12 +5381,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop72 = obj.prop1) === null || _obj$prop72 === void 0 || _obj$prop72.prop2;
 var foo = null;
-(_foo72 = foo) !== null && _foo72 !== void 0 ? _foo72 : 'default';
+(_foo95 = foo) !== null && _foo95 !== void 0 ? _foo95 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo96 = foo) !== null && _foo96 !== void 0 ? _foo96 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -5659,9 +5395,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal73) {
@@ -5672,9 +5406,7 @@ var Dog = /*#__PURE__*/function (_Animal73) {
   _inherits(Dog, _Animal73);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -5724,7 +5456,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop73 = obj.prop1) === null || _obj$prop73 === void 0 || _obj$prop73.prop2;
 var foo = null;
-(_foo73 = foo) !== null && _foo73 !== void 0 ? _foo73 : 'default';
+(_foo97 = foo) !== null && _foo97 !== void 0 ? _foo97 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -5737,9 +5469,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal74) {
@@ -5750,9 +5480,7 @@ var Dog = /*#__PURE__*/function (_Animal74) {
   _inherits(Dog, _Animal74);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -5802,7 +5530,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop74 = obj.prop1) === null || _obj$prop74 === void 0 || _obj$prop74.prop2;
 var foo = null;
-(_foo74 = foo) !== null && _foo74 !== void 0 ? _foo74 : 'default';
+(_foo98 = foo) !== null && _foo98 !== void 0 ? _foo98 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -5815,9 +5543,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal75) {
@@ -5828,9 +5554,7 @@ var Dog = /*#__PURE__*/function (_Animal75) {
   _inherits(Dog, _Animal75);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -5880,12 +5604,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop75 = obj.prop1) === null || _obj$prop75 === void 0 || _obj$prop75.prop2;
 var foo = null;
-(_foo75 = foo) !== null && _foo75 !== void 0 ? _foo75 : 'default';
+(_foo99 = foo) !== null && _foo99 !== void 0 ? _foo99 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo100 = foo) !== null && _foo100 !== void 0 ? _foo100 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -5893,9 +5618,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal76) {
@@ -5906,9 +5629,7 @@ var Dog = /*#__PURE__*/function (_Animal76) {
   _inherits(Dog, _Animal76);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -5958,7 +5679,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop76 = obj.prop1) === null || _obj$prop76 === void 0 || _obj$prop76.prop2;
 var foo = null;
-(_foo76 = foo) !== null && _foo76 !== void 0 ? _foo76 : 'default';
+(_foo101 = foo) !== null && _foo101 !== void 0 ? _foo101 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -5971,9 +5692,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal77) {
@@ -5984,9 +5703,7 @@ var Dog = /*#__PURE__*/function (_Animal77) {
   _inherits(Dog, _Animal77);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -6036,7 +5753,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop77 = obj.prop1) === null || _obj$prop77 === void 0 || _obj$prop77.prop2;
 var foo = null;
-(_foo77 = foo) !== null && _foo77 !== void 0 ? _foo77 : 'default';
+(_foo102 = foo) !== null && _foo102 !== void 0 ? _foo102 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -6049,9 +5766,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal78) {
@@ -6062,9 +5777,7 @@ var Dog = /*#__PURE__*/function (_Animal78) {
   _inherits(Dog, _Animal78);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -6114,12 +5827,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop78 = obj.prop1) === null || _obj$prop78 === void 0 || _obj$prop78.prop2;
 var foo = null;
-(_foo78 = foo) !== null && _foo78 !== void 0 ? _foo78 : 'default';
+(_foo103 = foo) !== null && _foo103 !== void 0 ? _foo103 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo104 = foo) !== null && _foo104 !== void 0 ? _foo104 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -6127,9 +5841,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal79) {
@@ -6140,9 +5852,7 @@ var Dog = /*#__PURE__*/function (_Animal79) {
   _inherits(Dog, _Animal79);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -6192,7 +5902,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop79 = obj.prop1) === null || _obj$prop79 === void 0 || _obj$prop79.prop2;
 var foo = null;
-(_foo79 = foo) !== null && _foo79 !== void 0 ? _foo79 : 'default';
+(_foo105 = foo) !== null && _foo105 !== void 0 ? _foo105 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -6205,9 +5915,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal80) {
@@ -6218,9 +5926,7 @@ var Dog = /*#__PURE__*/function (_Animal80) {
   _inherits(Dog, _Animal80);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -6270,7 +5976,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop80 = obj.prop1) === null || _obj$prop80 === void 0 || _obj$prop80.prop2;
 var foo = null;
-(_foo80 = foo) !== null && _foo80 !== void 0 ? _foo80 : 'default';
+(_foo106 = foo) !== null && _foo106 !== void 0 ? _foo106 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -6283,9 +5989,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal81) {
@@ -6296,9 +6000,7 @@ var Dog = /*#__PURE__*/function (_Animal81) {
   _inherits(Dog, _Animal81);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -6348,12 +6050,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop81 = obj.prop1) === null || _obj$prop81 === void 0 || _obj$prop81.prop2;
 var foo = null;
-(_foo81 = foo) !== null && _foo81 !== void 0 ? _foo81 : 'default';
+(_foo107 = foo) !== null && _foo107 !== void 0 ? _foo107 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo108 = foo) !== null && _foo108 !== void 0 ? _foo108 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -6361,9 +6064,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal82) {
@@ -6374,9 +6075,7 @@ var Dog = /*#__PURE__*/function (_Animal82) {
   _inherits(Dog, _Animal82);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -6426,7 +6125,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop82 = obj.prop1) === null || _obj$prop82 === void 0 || _obj$prop82.prop2;
 var foo = null;
-(_foo82 = foo) !== null && _foo82 !== void 0 ? _foo82 : 'default';
+(_foo109 = foo) !== null && _foo109 !== void 0 ? _foo109 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -6439,9 +6138,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal83) {
@@ -6452,9 +6149,7 @@ var Dog = /*#__PURE__*/function (_Animal83) {
   _inherits(Dog, _Animal83);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -6504,7 +6199,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop83 = obj.prop1) === null || _obj$prop83 === void 0 || _obj$prop83.prop2;
 var foo = null;
-(_foo83 = foo) !== null && _foo83 !== void 0 ? _foo83 : 'default';
+(_foo110 = foo) !== null && _foo110 !== void 0 ? _foo110 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -6517,9 +6212,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal84) {
@@ -6530,9 +6223,7 @@ var Dog = /*#__PURE__*/function (_Animal84) {
   _inherits(Dog, _Animal84);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -6582,12 +6273,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop84 = obj.prop1) === null || _obj$prop84 === void 0 || _obj$prop84.prop2;
 var foo = null;
-(_foo84 = foo) !== null && _foo84 !== void 0 ? _foo84 : 'default';
+(_foo111 = foo) !== null && _foo111 !== void 0 ? _foo111 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo112 = foo) !== null && _foo112 !== void 0 ? _foo112 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -6595,9 +6287,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal85) {
@@ -6608,9 +6298,7 @@ var Dog = /*#__PURE__*/function (_Animal85) {
   _inherits(Dog, _Animal85);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -6660,7 +6348,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop85 = obj.prop1) === null || _obj$prop85 === void 0 || _obj$prop85.prop2;
 var foo = null;
-(_foo85 = foo) !== null && _foo85 !== void 0 ? _foo85 : 'default';
+(_foo113 = foo) !== null && _foo113 !== void 0 ? _foo113 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -6673,9 +6361,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal86) {
@@ -6686,9 +6372,7 @@ var Dog = /*#__PURE__*/function (_Animal86) {
   _inherits(Dog, _Animal86);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -6738,7 +6422,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop86 = obj.prop1) === null || _obj$prop86 === void 0 || _obj$prop86.prop2;
 var foo = null;
-(_foo86 = foo) !== null && _foo86 !== void 0 ? _foo86 : 'default';
+(_foo114 = foo) !== null && _foo114 !== void 0 ? _foo114 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -6751,9 +6435,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal87) {
@@ -6764,9 +6446,7 @@ var Dog = /*#__PURE__*/function (_Animal87) {
   _inherits(Dog, _Animal87);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -6816,12 +6496,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop87 = obj.prop1) === null || _obj$prop87 === void 0 || _obj$prop87.prop2;
 var foo = null;
-(_foo87 = foo) !== null && _foo87 !== void 0 ? _foo87 : 'default';
+(_foo115 = foo) !== null && _foo115 !== void 0 ? _foo115 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo116 = foo) !== null && _foo116 !== void 0 ? _foo116 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -6829,9 +6510,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal88) {
@@ -6842,9 +6521,7 @@ var Dog = /*#__PURE__*/function (_Animal88) {
   _inherits(Dog, _Animal88);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -6894,7 +6571,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop88 = obj.prop1) === null || _obj$prop88 === void 0 || _obj$prop88.prop2;
 var foo = null;
-(_foo88 = foo) !== null && _foo88 !== void 0 ? _foo88 : 'default';
+(_foo117 = foo) !== null && _foo117 !== void 0 ? _foo117 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -6907,9 +6584,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal89) {
@@ -6920,9 +6595,7 @@ var Dog = /*#__PURE__*/function (_Animal89) {
   _inherits(Dog, _Animal89);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -6972,7 +6645,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop89 = obj.prop1) === null || _obj$prop89 === void 0 || _obj$prop89.prop2;
 var foo = null;
-(_foo89 = foo) !== null && _foo89 !== void 0 ? _foo89 : 'default';
+(_foo118 = foo) !== null && _foo118 !== void 0 ? _foo118 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -6985,9 +6658,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal90) {
@@ -6998,9 +6669,7 @@ var Dog = /*#__PURE__*/function (_Animal90) {
   _inherits(Dog, _Animal90);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -7050,12 +6719,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop90 = obj.prop1) === null || _obj$prop90 === void 0 || _obj$prop90.prop2;
 var foo = null;
-(_foo90 = foo) !== null && _foo90 !== void 0 ? _foo90 : 'default';
+(_foo119 = foo) !== null && _foo119 !== void 0 ? _foo119 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo120 = foo) !== null && _foo120 !== void 0 ? _foo120 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -7063,9 +6733,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal91) {
@@ -7076,9 +6744,7 @@ var Dog = /*#__PURE__*/function (_Animal91) {
   _inherits(Dog, _Animal91);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -7128,7 +6794,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop91 = obj.prop1) === null || _obj$prop91 === void 0 || _obj$prop91.prop2;
 var foo = null;
-(_foo91 = foo) !== null && _foo91 !== void 0 ? _foo91 : 'default';
+(_foo121 = foo) !== null && _foo121 !== void 0 ? _foo121 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -7141,9 +6807,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal92) {
@@ -7154,9 +6818,7 @@ var Dog = /*#__PURE__*/function (_Animal92) {
   _inherits(Dog, _Animal92);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -7206,7 +6868,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop92 = obj.prop1) === null || _obj$prop92 === void 0 || _obj$prop92.prop2;
 var foo = null;
-(_foo92 = foo) !== null && _foo92 !== void 0 ? _foo92 : 'default';
+(_foo122 = foo) !== null && _foo122 !== void 0 ? _foo122 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -7219,9 +6881,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal93) {
@@ -7232,9 +6892,7 @@ var Dog = /*#__PURE__*/function (_Animal93) {
   _inherits(Dog, _Animal93);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -7284,12 +6942,13 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop93 = obj.prop1) === null || _obj$prop93 === void 0 || _obj$prop93.prop2;
 var foo = null;
-(_foo93 = foo) !== null && _foo93 !== void 0 ? _foo93 : 'default';
+(_foo123 = foo) !== null && _foo123 !== void 0 ? _foo123 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo124 = foo) !== null && _foo124 !== void 0 ? _foo124 : 'default';
 var Animal = /*#__PURE__*/function () {
   function Animal(name) {
     _classCallCheck(this, Animal);
@@ -7297,9 +6956,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal94) {
@@ -7310,9 +6967,7 @@ var Dog = /*#__PURE__*/function (_Animal94) {
   _inherits(Dog, _Animal94);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -7362,7 +7017,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop94 = obj.prop1) === null || _obj$prop94 === void 0 || _obj$prop94.prop2;
 var foo = null;
-(_foo94 = foo) !== null && _foo94 !== void 0 ? _foo94 : 'default';
+(_foo125 = foo) !== null && _foo125 !== void 0 ? _foo125 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -7375,9 +7030,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal95) {
@@ -7388,9 +7041,7 @@ var Dog = /*#__PURE__*/function (_Animal95) {
   _inherits(Dog, _Animal95);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -7440,7 +7091,7 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop95 = obj.prop1) === null || _obj$prop95 === void 0 || _obj$prop95.prop2;
 var foo = null;
-(_foo95 = foo) !== null && _foo95 !== void 0 ? _foo95 : 'default';
+(_foo126 = foo) !== null && _foo126 !== void 0 ? _foo126 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
@@ -7453,9 +7104,7 @@ var Animal = /*#__PURE__*/function () {
   }
   return _createClass(Animal, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " makes a noise.");
-    }
+    value: function speak() {}
   }]);
 }();
 var Dog = /*#__PURE__*/function (_Animal96) {
@@ -7466,9 +7115,7 @@ var Dog = /*#__PURE__*/function (_Animal96) {
   _inherits(Dog, _Animal96);
   return _createClass(Dog, [{
     key: "speak",
-    value: function speak() {
-      "".concat(this.name, " barks.");
-    }
+    value: function speak() {}
   }]);
 }(Animal);
 var name = 'John';
@@ -7518,9 +7165,10 @@ var fetchData = /*#__PURE__*/function () {
 }();
 (_obj$prop96 = obj.prop1) === null || _obj$prop96 === void 0 || _obj$prop96.prop2;
 var foo = null;
-(_foo96 = foo) !== null && _foo96 !== void 0 ? _foo96 : 'default';
+(_foo127 = foo) !== null && _foo127 !== void 0 ? _foo127 : 'default';
 await Promise.resolve().then(function () {
   return _interopRequireWildcard(require('./module.js'));
 });
 var bigIntValue = 9007199254740991n + 1n;
 function sayHello() {}
+(_foo128 = foo) !== null && _foo128 !== void 0 ? _foo128 : 'default';

@@ -26,6 +26,7 @@ function bench() {
 
 results_file=`pwd`/results.csv
 echo -n "Eilučių kiekis,Laikas (sekundėmis),Alic,Babel,lib3to2,Rector" > $results_file
+# echo -n "Eilučių kiekis,Laikas (sekundėmis),Alic" > $results_file
 
 compilers=(
     "alic"
@@ -60,6 +61,9 @@ line_counts["4"]=800
 line_counts["5"]=1600
 line_counts["6"]=3200
 line_counts["7"]=6400
+line_counts["8"]=12800
+line_counts["9"]=25600
+line_counts["10"]=51200
 
 for line_count_index in "${!line_counts[@]}"; do
     echo -ne "\n${line_counts[$line_count_index]}," >> $results_file
